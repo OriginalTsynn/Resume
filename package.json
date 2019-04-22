@@ -7,9 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "me",
-  "license": "ISC"
-}
-
-"bin": {
-  "showResume": "./index.js"
+  "license": "ISC",
+  "bin": {
+    "showResume": "./index.js"
+  }
 }
