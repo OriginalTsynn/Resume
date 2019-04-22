@@ -1,0 +1,21 @@
+{
+    "name": "Nathan Rotach",
+    "website": "https://OriginalTsynn.github.io/",
+    "linkedin": "https://www.linkedin.com/in/tomatohammado/",
+    "github": "OriginalTsynn",
+    "email": "nathan.rotach@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "Node",
+        "Express",
+        "Mongodb",
+        "CSS",
+        "HTML"
+    ],
+    "otherSkills": [
+        "Spades",
+        "Euchre",
+        "Bridge"
+    ]
+}
